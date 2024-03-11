@@ -1,0 +1,36 @@
+schema = 3
+
+[mod]
+  [mod."github.com/agext/levenshtein"]
+    version = "v1.2.2"
+    hash = "sha256-U+4DBwGWfKCr89Mx2eTZCWpaaRRrcn4qyRA1Pn61lag="
+  [mod."github.com/apparentlymart/go-textseg"]
+    version = "v1.0.0"
+    hash = "sha256-ZIboiB7WtsQxB4S84JIX9W3sXb4/TRrxqsiXe6RnPVk="
+  [mod."github.com/go-test/deep"]
+    version = "v1.0.3"
+    hash = "sha256-X5vtS5X45TMglJ8wux6b0uUhbDFySNkjAoLZAkrP7C4="
+  [mod."github.com/google/go-cmp"]
+    version = "v0.3.0"
+    hash = "sha256-Uq5Hevk9jCVtOwrHZqhPPYc3KX/oKJmqoFB/Msjo3cM="
+  [mod."github.com/hashicorp/hcl"]
+    version = "v0.0.0-20170504190234-a4b07c25de5f"
+    hash = "sha256-TrU6Mcb2H1fOmuEfTV2GOy1+i5pafE5t2HBMEvgVExA="
+  [mod."github.com/hashicorp/hcl/v2"]
+    version = "v2.0.0"
+    hash = "sha256-2Z7UH1ylKSEc+BFBR+I3PgbtU25r86geeyVLH+zTpdo="
+  [mod."github.com/kylelemons/godebug"]
+    version = "v1.1.0"
+    hash = "sha256-DJ0re9mGqZb6PROQI8NPC0JVyDHdZ/y4uehNH7MbczY="
+  [mod."github.com/mitchellh/go-wordwrap"]
+    version = "v1.0.0"
+    hash = "sha256-bgG/RLuwh8hn34/LMfGX3Yr9+TIFFSYCM9jakRlfzsk="
+  [mod."github.com/spf13/pflag"]
+    version = "v1.0.3"
+    hash = "sha256-Vu3dUmDZASu8/sAVAXaBXawtbZhsL9nMo43vANOdNMU="
+  [mod."github.com/zclconf/go-cty"]
+    version = "v1.1.0"
+    hash = "sha256-foJlYBkktLM9T4gs3kieSX9CTELlARx60tGletWRiyU="
+  [mod."golang.org/x/text"]
+    version = "v0.3.8"
+    hash = "sha256-KKHU0OMfT4oxTIzIVqan8MY8wNvgBW00s24hF+kWbMA="
